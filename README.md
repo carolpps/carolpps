@@ -14,12 +14,12 @@ Gosto de aprender coisas novas, experimentar ideias e transformar conhecimentos 
 
 ## Sobre mim
 
-- Estudante de tecnologia
+- Estudante de Desenvolvimento de sistemas - IFSP
 - Aprendendo desenvolvimento e programação
 - Interessada em desenvolvimento de jogos
 - Sempre buscando aprender algo novo
 
-## Tecnologias
+## Habilidades:
 
 <div align="center">
 
@@ -30,26 +30,6 @@ Gosto de aprender coisas novas, experimentar ideias e transformar conhecimentos 
 <img src="https://img.shields.io/badge/C-B9DDF2?style=for-the-badge&logo=c&logoColor=713B55"/>
 <img src="https://img.shields.io/badge/Git-B9DDF2?style=for-the-badge&logo=git&logoColor=713B55"/>
 <img src="https://img.shields.io/badge/GitHub-F4C6D7?style=for-the-badge&logo=github&logoColor=713B55"/>
-
-</div>
-
-## Projetos
-
-<div align="center">
-
-<a href="https://github.com/carolpps/carol-project">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=carolpps&repo=carol-project&bg_color=fffaff&title_color=713B55&text_color=725C70&icon_color=B98AAE&hide_border=true"/>
-</a>
-
-</div>
-
-## Estatísticas
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=carolpps&show_icons=true&bg_color=fffaff&title_color=713B55&text_color=725C70&icon_color=B98AAE&hide_border=true&include_all_commits=true"/>
-
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolpps&layout=compact&bg_color=fffaff&title_color=713B55&text_color=725C70&hide_border=true"/>
 
 </div>
 
