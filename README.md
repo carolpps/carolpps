@@ -1,25 +1,34 @@
-# Olá, eu sou a Carol!
-
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Georgia&size=20&pause=1000&color=9B668D&center=true&vCenter=true&width=500&lines=Estudante+de+tecnologia;Aprendendo+e+desenvolvendo+projetos;Bem-vindo(a)+ao+meu+GitHub!" alt="Apresentação animada"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:B9DDF2,45:D8C9F0,100:F4C6D7&height=8&section=header"/>
+
+<br/>
+
+# <span style="color:#713B55;">CAROL</span>
+
+### `Desenvolvimento de Sistemas • IFSP`
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1000&color=9B668D&center=true&vCenter=true&repeat=true&width=520&height=30&lines=Software+Development;Programming+%26+Technology;Game+Development+Enthusiast" alt="Typing SVG"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/IFSP-B9DDF2?style=flat-square&labelColor=F4C6D7&color=713B55"/>
+<img src="https://img.shields.io/badge/Brasil-D8C9F0?style=flat-square&labelColor=B9DDF2&color=713B55"/>
+<img src="https://img.shields.io/badge/Developer%20in%20progress-F4C6D7?style=flat-square&labelColor=D8C9F0&color=713B55"/>
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:B9DDF2,45:D8C9F0,100:F4C6D7&height=8&section=footer"/>
 
 </div>
 
-Sou estudante e estou construindo minha jornada na área de tecnologia. Tenho interesse em programação, desenvolvimento e criação de projetos.
+## Sobre mim
 
-Gosto de aprender coisas novas, experimentar ideias e transformar conhecimentos em projetos.
+Sou estudante de **Desenvolvimento de Sistemas no IFSP**, apaixonada por tecnologia e interessada em programação, desenvolvimento de software e criação de jogos. Estou sempre buscando expandir meus conhecimentos, aprimorar minhas habilidades e explorar novas possibilidades na área. Gosto de transformar ideias em projetos e aprender com cada experiência.
 
 ---
 
-## Sobre mim
-
-- Estudante de Desenvolvimento de sistemas - IFSP
-- Aprendendo desenvolvimento e programação
-- Interessada em desenvolvimento de jogos
-- Sempre buscando aprender algo novo
-
-## Habilidades:
+## Tecnologias e ferramentas
 
 <div align="center">
 
@@ -28,26 +37,46 @@ Gosto de aprender coisas novas, experimentar ideias e transformar conhecimentos 
 <img src="https://img.shields.io/badge/JavaScript-D8C9F0?style=for-the-badge&logo=javascript&logoColor=713B55"/>
 <img src="https://img.shields.io/badge/Python-713B55?style=for-the-badge&logo=python&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/badge/C-B9DDF2?style=for-the-badge&logo=c&logoColor=713B55"/>
-<img src="https://img.shields.io/badge/Git-B9DDF2?style=for-the-badge&logo=git&logoColor=713B55"/>
-<img src="https://img.shields.io/badge/GitHub-F4C6D7?style=for-the-badge&logo=github&logoColor=713B55"/>
+<img src="https://img.shields.io/badge/Git-F4C6D7?style=for-the-badge&logo=git&logoColor=713B55"/>
+<img src="https://img.shields.io/badge/GitHub-D8C9F0?style=for-the-badge&logo=github&logoColor=713B55"/>
 
 </div>
 
-## Música
+---
+
+## Projetos em destaque
 
 <div align="center">
 
-<a href="https://open.spotify.com/">
-<img src="https://img.shields.io/badge/Spotify-B9DDF2?style=for-the-badge&logo=spotify&logoColor=713B55"/>
+<a href="https://github.com/carolpps/carol-project">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=carolpps&repo=carol-project&bg_color=F8F5FC&title_color=713B55&text_color=725C70&icon_color=B98AAE&hide_border=true"/>
+</a>
+
+<a href="https://github.com/htegani/ifsp-jogo-log">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=htegani&repo=ifsp-jogo-log&bg_color=F8F5FC&title_color=713B55&text_color=725C70&icon_color=B98AAE&hide_border=true"/>
 </a>
 
 </div>
 
-## Contribuições
+## GitHub Statistics
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/carolpps/carolpps/output/github-snake.svg)
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=carolpps&show_icons=true&hide_border=true&bg_color=F8F5FC&title_color=713B55&text_color=725C70&icon_color=B98AAE&rank_icon=github"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolpps&layout=compact&hide_border=true&bg_color=F8F5FC&title_color=713B55&text_color=725C70"/>
+
+</div>
+
+---
+
+## Currently listening
+
+<div align="center">
+
+<a href="https://open.spotify.com/">
+<img src="https://img.shields.io/badge/Spotify-My%20playlist-B9DDF2?style=for-the-badge&logo=spotify&logoColor=713B55"/>
+</a>
 
 </div>
 
@@ -55,15 +84,8 @@ Gosto de aprender coisas novas, experimentar ideias e transformar conhecimentos 
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Carol-713B55?style=flat-square&labelColor=B9DDF2"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:B9DDF2,50:F4C6D7,100:D8C9F0&height=3&section=footer"/>
 
-</div>
-</div>
-
----
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Carol-713B55?style=flat-square&labelColor=B9DDF2" />
+<sub>Desenvolvido por Carol | 2026</sub>
 
 </div>
