@@ -4,7 +4,7 @@
 
 <br/>
 
-# <span style="color:#713B55;">CAROL</span>
+# <span style="color:#713B55;">CAROLINA</span>
 
 ### `Desenvolvimento de Sistemas • IFSP`
 
