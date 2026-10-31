@@ -48,10 +48,6 @@ Sou estudante de **Desenvolvimento de Sistemas no IFSP**, apaixonada por tecnolo
 
 <div align="center">
 
-<a href="https://github.com/carolpps/carol-project">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=carolpps&repo=carol-project&bg_color=F8F5FC&title_color=713B55&text_color=725C70&icon_color=B98AAE&hide_border=true"/>
-</a>
-
 <a href="https://github.com/htegani/ifsp-jogo-log">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=htegani&repo=ifsp-jogo-log&bg_color=F8F5FC&title_color=713B55&text_color=725C70&icon_color=B98AAE&hide_border=true"/>
 </a>
