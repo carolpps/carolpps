@@ -26,7 +26,7 @@
 
 Sou estudante de **Desenvolvimento de Sistemas no IFSP**, apaixonada por tecnologia e interessada em programação, desenvolvimento de software e criação de jogos. Estou sempre buscando expandir meus conhecimentos, aprimorar minhas habilidades e explorar novas possibilidades na área. Gosto de transformar ideias em projetos e aprender com cada experiência.
 
----
+
 
 ## Tecnologias e ferramentas
 
@@ -42,14 +42,13 @@ Sou estudante de **Desenvolvimento de Sistemas no IFSP**, apaixonada por tecnolo
 
 </div>
 
----
 
 ## Projetos em destaque
 
 <div align="center">
 
 <a href="https://github.com/htegani/ifsp-jogo-log">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=htegani&repo=ifsp-jogo-log&bg_color=F8F5FC&title_color=713B55&text_color=725C70&icon_color=B98AAE&hide_border=true"/>
+  <img src="https://img.shields.io/badge/IFSP--JOGO--LOG-Ver%20projeto-713B55?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
@@ -58,13 +57,12 @@ Sou estudante de **Desenvolvimento de Sistemas no IFSP**, apaixonada por tecnolo
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=carolpps&show_icons=true&hide_border=true&bg_color=F8F5FC&title_color=713B55&text_color=725C70&icon_color=B98AAE&rank_icon=github"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolpps&layout=compact&hide_border=true&bg_color=F8F5FC&title_color=713B55&text_color=725C70"/>
+<a href="https://github.com/carolpps">
+  <img src="https://img.shields.io/badge/GitHub-carolpps-713B55?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </div>
 
----
 
 ## Currently listening
 
@@ -76,7 +74,7 @@ Sou estudante de **Desenvolvimento de Sistemas no IFSP**, apaixonada por tecnolo
 
 </div>
 
----
+
 
 <div align="center">
 
