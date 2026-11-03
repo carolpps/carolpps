@@ -64,7 +64,7 @@ Sou estudante de **Desenvolvimento de Sistemas no IFSP**, apaixonada por tecnolo
 </div>
 
 
-## minhas musicas
+## Minhas músicas
 
 <div align="center">
 
