@@ -67,15 +67,6 @@ Sou estudante de **Desenvolvimento de Sistemas no IFSP**, apaixonada por tecnolo
 </div>
 
 
-## Minhas músicas
-
-<div align="center">
-
-<a href="https://open.spotify.com/">
-<img src="https://img.shields.io/badge/Spotify-My%20playlist-B9DDF2?style=for-the-badge&logo=spotify&logoColor=713B55"/>
-</a>
-
-</div>
 
 
 
