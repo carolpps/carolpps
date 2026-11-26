@@ -50,6 +50,9 @@ Sou estudante de **Desenvolvimento de Sistemas no IFSP**, apaixonada por tecnolo
 <a href="https://github.com/htegani/ifsp-jogo-log">
   <img src="https://img.shields.io/badge/IFSP--JOGO--LOG-Ver%20projeto-713B55?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+<a href="https://github.com/carolpps/Gossip-Girl">
+  <img src="https://img.shields.io/badge/Gossip--Girl-Ver%20projeto-713B55?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </div>
 
